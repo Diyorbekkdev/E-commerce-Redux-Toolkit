@@ -11,10 +11,9 @@
     "antd": "^5.7.3",
     "axios": "^1.4.0",
     "react": "^18.2.0",
-    "react-reduxreact-dom": "^18.2.0",
-    "": "^8.1.2",
+    "react-redux": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-router-dom": "^6.14.2",
-    "react-scripts": "5.0.1",
     "redux": "^4.2.1",
     "sass": "^1.64.1",
     "web-vitals": "^2.1.4"
